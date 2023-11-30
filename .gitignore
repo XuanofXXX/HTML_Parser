@@ -1,0 +1,20 @@
+*.dSYM
+*.cph
+*.txt
+*.zip
+*.[oa]
+.DS_Store
+!CMakeLists.txt
+Good Html/
+a.out
+test.cpp
+test*
+**/test*
+*.dSYM
+**/*.dSYM
+build/
+实验报告*
+
+.vscode/
+.history/
+.idea/
